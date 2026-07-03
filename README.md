@@ -100,7 +100,7 @@ The database seed command generates the following default credentials for testin
 
 ---
 
-## 📈 Rate Calculation Logic
+## Rate Calculation Logic
 
 The pricing engine runs in `server/services/pricingService.js` and implements the following logic:
 
